@@ -1,2 +1,2 @@
 # demo
-first demo to the biggest software world
+first demo to the bigger software world
